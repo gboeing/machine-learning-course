@@ -34,7 +34,7 @@
           1. [Logistic regression](sessions/logistic-regression.ipynb)
           1. [Support vector machines](sessions/support-vector-machine.ipynb)
           1. [Decision trees](sessions/decision-tree.ipynb) and [random forests](sessions/random-forest.ipynb)
-          1. [k-nearest neighbors and kernel density estimation](sessions/k-nearest-neighbors.ipynb)
+          1. [k-nearest neighbors](sessions/k-nearest-neighbors.ipynb) and kernel density estimation
           1. [Perceptron](sessions/perceptron.ipynb)
           1. [Naïve Bayes](sessions/naive-bayes.ipynb)
       1. Clustering
@@ -45,7 +45,7 @@
       1. Dimensionality reduction
           1. Factor analysis
           1. [Linear discriminant analysis](sessions/linear-discriminant-analysis.ipynb)
-          1. [Principle components analysis](sessions/principle-components-analysis.ipynb)
+          1. [Principle components analysis](sessions/principal-components-analysis.ipynb)
           1. Multidimensional scaling
       1. Neural networks
           1. Back-propagation
