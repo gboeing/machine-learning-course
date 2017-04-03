@@ -31,12 +31,12 @@
       1. Path analysis, structural equation modeling, and causal models
   1. Machine learning and data mining
       1. Supervised learning classifiers
-          1. Logistic regression
-          1. Perceptron
-          1. k-nearest neighbors and kernel density estimation
-          1. Decision trees and random forests
-          1. Support vector machines
-          1. Naïve Bayes
+          1. [Logistic regression](sessions/logistic-regression.ipynb)
+          1. [Support vector machines](sessions/support-vector-machine.ipynb)
+          1. [Decision trees](sessions/decision-tree.ipynb) and [random forests](sessions/random-forest.ipynb)
+          1. [k-nearest neighbors and kernel density estimation](sessions/k-nearest-neighbors.ipynb)
+          1. [Perceptron](sessions/perceptron.ipynb)
+          1. [Naïve Bayes](sessions/naive-bayes.ipynb)
       1. Clustering
           1. Hierarchical
           1. k-means
