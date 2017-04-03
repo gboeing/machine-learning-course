@@ -7,9 +7,9 @@
       1. Probability theory
       1. Basic statistics
           1. Sampling, distributions, variance, central tendency
-          1. Standardization, z-scores, standard errors
+          1. Standardization, *z*-scores, standard errors
           1. Statistical significance, effect size, confidence intervals, correlation
-          1. t-tests, F-tests, ANOVA, chi-squared
+          1. *t*-tests, *F*-tests, ANOVA, chi-squared
           1. Monte Carlo methods and Markov chains
           1. Basics of Bayesian statistics
   1. Coding (recommend: Python)
@@ -44,8 +44,8 @@
           1. OPTICS
       1. Dimensionality reduction
           1. Factor analysis
-          1. Linear discriminant analysis
-          1. Principle components analysis
+          1. [Linear discriminant analysis](sessions/linear-discriminant-analysis.ipynb)
+          1. [Principle components analysis](sessions/principle-components-analysis.ipynb)
           1. Multidimensional scaling
       1. Neural networks
           1. Back-propagation
