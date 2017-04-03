@@ -45,7 +45,7 @@
       1. Dimensionality reduction
           1. Factor analysis
           1. [Linear discriminant analysis](sessions/linear-discriminant-analysis.ipynb)
-          1. [Principle components analysis](sessions/principal-components-analysis.ipynb)
+          1. [Principal components analysis](sessions/principal-components-analysis.ipynb)
           1. Multidimensional scaling
       1. Neural networks
           1. Back-propagation
